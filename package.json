@@ -9,7 +9,7 @@
     "braces": "^3.0.2",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "node-dht-sensor": "^0.4.0",
     "nodemon": "^1.19.2",
     "react": "^16.9.0",
